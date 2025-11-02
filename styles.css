@@ -18,7 +18,7 @@ body {
   max-width: 45.5%;
 }
 .image-omelette {
-  width: 750px;
+  width: 100%;
   border: solid;
   border-style: none;
   border-radius: 12px;
@@ -86,7 +86,7 @@ ol.list li {
 .nutrition-table {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  width: 1000px;
+  width: 600px;
 }
 .nutrient {
   padding-left: 35px;
